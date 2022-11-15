@@ -17,6 +17,11 @@ CSS Styles Content Table
 /*===========
 Global Styles
 =============*/
+@font-face {
+  font-family: "Montserrat";
+  src: url("font/Montserrat.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
 body {
   font-family: "Montserrat";
 }
